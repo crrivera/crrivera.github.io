@@ -22,10 +22,12 @@ html {
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
+        color #C67C48;
     }
 
     .top-nav-collapse {
         padding: 0;
+        color #C67C48;
     }
 }
 
@@ -46,10 +48,6 @@ of those sections to manage the look and feel of the site. */
 
 h1 {
     color: #DB2C38;
-}
-
-li {
-    color #C67C48;
 }
 
 .about-section {
