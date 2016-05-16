@@ -39,8 +39,8 @@ of those sections to manage the look and feel of the site. */
 }
 
 p.intro-section {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .about-section {
@@ -51,8 +51,8 @@ p.intro-section {
 }
 
 p.about-section {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .services-section {
@@ -63,8 +63,8 @@ p.about-section {
 }
 
 p.services-section {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .contact-section {
@@ -75,6 +75,6 @@ p.services-section {
 }
 
 p.contact-section {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
