@@ -36,8 +36,6 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 p.intro-section {
@@ -50,6 +48,9 @@ p.intro-section {
     padding-top: 150px;
     text-align: center;
     background: #eee;
+}
+
+p.about-section {
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -59,6 +60,9 @@ p.intro-section {
     padding-top: 150px;
     text-align: center;
     background: #fff;
+}
+
+p.services-section {
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -68,6 +72,9 @@ p.intro-section {
     padding-top: 150px;
     text-align: center;
     background: #eee;
+}
+
+p.contact-section {
     margin-left: 20px;
     margin-right: 20px;
 }
