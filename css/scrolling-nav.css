@@ -36,10 +36,13 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
-    
     margin-left: 20px;
     margin-right: 20px;
-     
+}
+
+p.intro-section {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .about-section {
@@ -47,6 +50,8 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #eee;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .services-section {
@@ -54,6 +59,8 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .contact-section {
@@ -61,4 +68,6 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #eee;
+    margin-left: 20px;
+    margin-right: 20px;
 }
