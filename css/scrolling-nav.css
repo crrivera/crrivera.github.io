@@ -85,10 +85,6 @@ img {
     /*Format list elements*/
     line-height: 50px;
     text-align: left;
-    /*
-    display: table;
-    margin:0 auto;
-*/
 }
 
 .skills-section {
@@ -106,6 +102,8 @@ img {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
+    display: table;
+    margin: 0 auto;
 }
 
 #skills-list li {
