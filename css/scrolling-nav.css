@@ -92,7 +92,7 @@ img {
     margin-right: 20px;
 }
 
-#skills-list ul {
+#skills-list {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
@@ -101,7 +101,7 @@ img {
 #skills-list li {
     line-height: 50px;
     text-align: left;
-    margin-left: 20%;
+    margin-left: 40%;
 }
 
 .projects-section {
