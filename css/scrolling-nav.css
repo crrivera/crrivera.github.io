@@ -71,6 +71,10 @@ of those sections to manage the look and feel of the site. */
     margin-right: 20px;
 }
 
+.interests-list {
+    line-height: 45px;
+}
+
 .projects-section {
     height: 100%;
     padding-top: 150px;
