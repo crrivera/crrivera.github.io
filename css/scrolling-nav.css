@@ -92,6 +92,12 @@ img {
     margin-right: 20px;
 }
 
+#skills-list li {
+    line-height: 50px;
+    text-align: left;
+    margin-left: 40%;
+}
+
 .projects-section {
     height: 100%;
     padding-top: 150px;
