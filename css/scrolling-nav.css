@@ -71,26 +71,6 @@ of those sections to manage the look and feel of the site. */
     margin-right: 20px;
 }
 
-
-.service-list {
-    list-style-type: none;
-    margin-left:0px;
-    padding-left:0px;
-    display: inline-block;
-}
-
-.service-list img
-{
-    float:left;
-}
-
-.service-list p {
-    text-align: right;
-    display:inline-block;
-    padding: 0;
-}
-
-
 .projects-section {
     height: 100%;
     padding-top: 150px;
