@@ -71,6 +71,10 @@ of those sections to manage the look and feel of the site. */
     margin-right: 20px;
 }
 
+img {
+    margin: 5em;
+}
+
 #interests-list li {
     line-height: 50px;
     text-align: left;
