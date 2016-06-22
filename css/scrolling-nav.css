@@ -96,6 +96,7 @@ img {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
+    margin: center;
 }
 
 #skills-list li {
