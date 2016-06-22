@@ -92,14 +92,16 @@ img {
     margin-right: 20px;
 }
 
-#skills-list-left li {
+#skills-list li {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
     line-height: 50px;
     text-align: left;
     margin-left: 20%;
 }
 
 #skills-list-right li {
-    display: inline-block
     line-height: 50px;
     text-align: left;
     margin-left: 60%;
