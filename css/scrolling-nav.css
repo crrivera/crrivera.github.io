@@ -96,13 +96,12 @@ img {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
-    margin: center;
 }
 
 #skills-list li {
     line-height: 50px;
     text-align: left;
-    /*margin-left: 30%;*/
+    margin-left: 40%;
 }
 
 .projects-section {
