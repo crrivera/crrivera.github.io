@@ -88,6 +88,17 @@ of those sections to manage the look and feel of the site. */
     margin-right: 20px;
 }
 
+.projects-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    /*
+     background: #fff;
+     */
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .contact-section {
     height: 100%;
     padding-top: 150px;
