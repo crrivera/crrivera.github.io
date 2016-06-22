@@ -84,7 +84,7 @@ of those sections to manage the look and feel of the site. */
     float:left;
 }
 
-.service-list p,.service-list h3 {
+.service-list p {
     text-align: right;
     display:inline-block;
     padding: 0;
