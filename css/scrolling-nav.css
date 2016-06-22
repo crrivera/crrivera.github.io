@@ -99,6 +99,7 @@ img {
 }
 
 #skills-list-right li {
+    display: inline-block
     line-height: 50px;
     text-align: left;
     margin-left: 60%;
