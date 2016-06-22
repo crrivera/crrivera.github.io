@@ -75,11 +75,20 @@ img {
     margin-right: 1em;
 }
 
+#interests-list {
+    /*Format the list*/
+    display: table;
+    margin: 0 auto;
+}
+
 #interests-list li {
+    /*Format list elements*/
     line-height: 50px;
     text-align: left;
+    /*
     display: table;
     margin:0 auto;
+*/
 }
 
 .skills-section {
