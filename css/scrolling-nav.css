@@ -104,9 +104,9 @@ img {
     -webkit-columns: 2;
     -moz-columns: 2;
     */
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
     
     display: table;
     margin: 0 auto;
