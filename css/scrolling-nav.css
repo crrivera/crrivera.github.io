@@ -69,6 +69,24 @@ of those sections to manage the look and feel of the site. */
      */
     margin-left: 20px;
     margin-right: 20px;
+    
+    #interests-list, #interests-list p, #interests-list h3 {
+        list-style: none;
+        margin:0; padding:0;
+    }
+    
+    #interests-list > li{
+        float:left;
+        margin-right: 20px;
+        width: 130px;
+    }
+    
+    #interests-list > li > .image{
+        display:block;
+        float:left;
+        margin-right:10px;
+    }
+    
 }
 
 .projects-section {
