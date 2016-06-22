@@ -78,8 +78,8 @@ img {
 #interests-list li {
     line-height: 50px;
     text-align: left;
-    /*margin-left: 40%;*/
-    padding-left: 40%
+    display: table;
+    margin:0 auto;
 }
 
 .skills-section {
