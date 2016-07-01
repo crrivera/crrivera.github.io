@@ -98,17 +98,22 @@ img {
     margin-right: 20px;
 }
 
-#image-list {
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    /*-webkit-column-count: 3;    /* Chrome, Safari, Opera */
-    /*-moz-column-count: 3;       /* Firefox */
-    /*column-count: 3;*/
-    
-    display: table;
-    margin: 0 auto;
+#double {
+    width:760px;
+    margin-bottom:20px;
+    overflow:hidden;
+    border-top:1px solid #ccc;
 }
+#double li{
+    line-height:1.5em;
+    border-bottom:1px solid #ccc;
+    float:left;
+    display:inline;
+}
+#double li  { width:50%;} <span class="code-comment">/* 2 col */</span>
+#triple li  { width:33.333%; } <span class="code-comment">/* 3 col */</span>
+#quad li    { width:25%; } <span class="code-comment">/* 4 col */</span>
+#six li     { width:16.666%; } <span class="code-comment">/* 6 col */</span></code>
 
 #skills-list {
     /*
