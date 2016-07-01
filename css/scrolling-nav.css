@@ -126,25 +126,6 @@ img {
     /*Default size = 16 px*/
 }
 
-#skills-list {
-    /*
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    */
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
-    
-    display: table;
-    margin: 0 auto;
-}
-
-#skills-list li {
-    line-height: 50px;
-    text-align: left;
-}
-
 .projects-section {
     height: 100%;
     padding-top: 150px;
