@@ -120,6 +120,12 @@ img {
     line-height: 30px;
 }
 
+.legend p {
+    font-style: italic;
+    font-size: 8px;
+    /*Default size = 16 px*/
+}
+
 #skills-list {
     /*
     columns: 2;
