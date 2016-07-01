@@ -110,6 +110,10 @@ img {
     text-align: left;
 }
 
+.double_column_list ul {
+    list-style-type: none;
+}
+
 .double_column_list li {
     float: left;
     width: 50%;
