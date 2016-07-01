@@ -98,6 +98,14 @@ img {
     margin-right: 20px;
 }
 
+#image-list {
+    -webkit-column-count: 3;    /* Chrome, Safari, Opera */
+    -moz-column-count: 3;       /* Firefox */
+    column-count: 3;    
+    display: table;
+    margin: 0 auto;
+}
+
 #skills-list {
     /*
     columns: 2;
