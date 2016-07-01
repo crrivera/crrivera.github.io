@@ -117,6 +117,8 @@ img {
 .double_column_list li {
     float: left;
     width: 50%;
+    line-height: 50px;
+    text-align: left;
 }
 
 
