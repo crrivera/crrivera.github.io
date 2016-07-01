@@ -98,6 +98,18 @@ img {
     margin-right: 20px;
 }
 
+#legend-list {
+    /*Format the list*/
+    display: table;
+    margin: 0 auto;
+}
+
+#legend-list li {
+    /*Format list elements*/
+    line-height: 50px;
+    text-align: left;
+}
+
 #skills-list {
     /*
     columns: 2;
