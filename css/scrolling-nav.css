@@ -120,16 +120,6 @@ img {
     line-height: 30px;
 }
 
-.triple_column_legend_list ul {
-    list-style-type: none;
-}
-
-.triple_column_legend_list li {
-    float: left;
-    width: 33%;
-    line-height: 30px;
-}
-
 #skills-list {
     /*
     columns: 2;
