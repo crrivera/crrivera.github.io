@@ -110,16 +110,21 @@ img {
     text-align: left;
 }
 
-.double_column_list ul {
+.double_column_skill_list ul {
     list-style-type: none;
 }
 
-.double_column_list li {
+.double_column_skill_list li {
     float: left;
     width: 50%;
     line-height: 30px;
 }
 
+#legend-list li {
+    float: left;
+    width: 33%;
+    line-height: 30px;
+}
 
 #skills-list {
     /*
