@@ -120,9 +120,13 @@ img {
     line-height: 30px;
 }
 
-#legend-list li {
+.triple_column_legend_list ul {
+    list-style-type: none;
+}
+
+.triple_column_legend_list li {
     float: left;
-    width: 33%;
+    width: 50%;
     line-height: 30px;
 }
 
