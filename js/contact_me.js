@@ -23,13 +23,14 @@ $(function() {
             $.ajax({
                 url: "//formspree.io/carlos.rivera.ece@gmail.com",
                 type: "POST",
+                method: "POST",
                 data: {
                     name: name,
                     phone: phone,
                     email: email,
                     message: message
                 },
-                dataType: "json"
+                dataType: "json",
                 cache: false,
                 success: function() {
                    // Enable button & show success message
