@@ -21,7 +21,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "//formspree.io/carlos.rivera.ece@gmail.com",
                 type: "POST",
                 data: {
                     name: name,
@@ -29,6 +29,14 @@ $(function() {
                     email: email,
                     message: message
                 },
+                   /*
+                   $.ajax({
+                          url: "//formspree.io/username@gmail.com",
+                          method: "POST",
+                          data: {message: "hello!"},
+                          dataType: "json"
+                          });
+                   */
                 cache: false,
                 success: function() {
                     // Enable button & show success message
