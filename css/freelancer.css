@@ -84,9 +84,10 @@ header img {
   margin: 0 auto 20px;
 }
 header .intro-text .name {
+  /* Intro Section Name*/
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: 700;
   font-size: 2em;
 }
