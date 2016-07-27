@@ -70,7 +70,6 @@ hr.star-primary:after {
 header {
   text-align: center;
   background: #ffffff;
-  background-image: url("img/macbook_background.png");
   color: white;
 }
 header .container {
@@ -130,7 +129,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #DB2C38;
+  color: #1E2028;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
