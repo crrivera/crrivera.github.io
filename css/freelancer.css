@@ -70,6 +70,7 @@ hr.star-primary:after {
 header {
   text-align: center;
   background: #ffffff;
+  background-image: url("img/macbook_background.png");
   color: white;
 }
 header .container {
