@@ -75,6 +75,7 @@ header {
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
+  background-image: url("img/macbook_background.png");
 }
 header img {
   display: block;
