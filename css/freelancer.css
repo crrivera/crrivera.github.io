@@ -69,7 +69,9 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #ffffff;
+  /*background: #ffffff;*/
+  background-image: url("img/macbook_background.png");
+
   color: white;
 }
 header .container {
@@ -372,7 +374,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
+  /*background-color: #18BC9C;*/
   border-color: #18BC9C;
   font-weight: 700;
 }
@@ -405,6 +407,7 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
+  /* mobile small menu button */
   background-color: #18BC9C;
   border-color: #18BC9C;
 }
