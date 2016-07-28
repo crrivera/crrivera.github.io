@@ -310,7 +310,8 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  /* Color of pop up form label */
+  color: #DB2C38;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -434,8 +435,7 @@ fieldset[disabled] .btn-success.active {
   border-color: #18BC9C;
 }
 .btn-success .badge {
-  /* pop up text from form */
-  color: #DB2C38;
+  color: #18BC9C;
   background-color: white;
 }
 .btn-social {
