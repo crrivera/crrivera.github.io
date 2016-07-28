@@ -68,11 +68,11 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
+  /*First Section - Carlos Rivera*/
   text-align: center;
   /*background: #ffffff;*/
-  background-image: url("img/macbook_background.png");
-
-  /*color: white;*/
+  /*background-image: url("img/macbook_background.png");*/
+  background-color: red;
 }
 header .container {
   padding-top: 100px;
