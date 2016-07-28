@@ -137,7 +137,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: white;
+  color: #DB2C38;
 }
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
@@ -193,6 +193,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
+  /* About Section Background and Text Color */
   background: #DB2C38;
   color: white;
 }
