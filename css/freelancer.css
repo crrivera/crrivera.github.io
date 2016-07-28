@@ -131,13 +131,14 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  /* Hover Over Navigation Bar*/
+  /* Hover Over Navigation Bar */
   color: #DB2C38;               /*red*/
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: #DB2C38;
+  /* Highlight Red While Moving */
+  color: white;
 }
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
