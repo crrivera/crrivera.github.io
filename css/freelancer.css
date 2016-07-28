@@ -154,8 +154,8 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   /* Navbar when scrolling through section */
-  color: white;
-  background: white;          /*midnight*/
+  color: #DB2C38;
+  background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-toggle {
   color: white;
