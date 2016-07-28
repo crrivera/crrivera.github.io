@@ -150,7 +150,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
   /* Remains highlighted upon going to another section */
-  color: white;                 /*red*/
+  color: #DB2C38;                 /*red*/
   background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
