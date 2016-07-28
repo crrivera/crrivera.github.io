@@ -160,9 +160,10 @@ header .intro-text .skills {
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
   /* Navbar when clicked */
+  /* Mainly for mobile */
   background-color: #1E2028;    /*midnight*/
   color: #DB2C38;               /*red*/
-  border-color: #18BC9C;
+  border-color: #DB2C38;        /*red*/
 }
 @media (min-width: 768px) {
   .navbar-custom {
