@@ -137,7 +137,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  /* Highlight Red While Moving */
+  /* Highlight White While Moving */
   color: white;
 }
 .navbar-custom .navbar-nav li.active a {
