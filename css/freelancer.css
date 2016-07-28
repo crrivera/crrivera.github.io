@@ -122,7 +122,8 @@ header .intro-text .skills {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #DB2C38;
+  /* Name in Navbar */
+  color: white;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
@@ -135,9 +136,12 @@ header .intro-text .skills {
   color: #DB2C38;               /*red*/
   outline: none;
 }
-.navbar-custom .navbar-nav li a:focus,
+.navbar-custom .navbar-nav li a:focus{
+  /* Leave navbar tag white when clicked */
+  color: white;
+}
 .navbar-custom .navbar-nav li a:active {
-  /* Highlight White While Moving */
+  /* Highlight red when moving */
   color: #DB2C38;
 }
 .navbar-custom .navbar-nav li.active a {
