@@ -155,7 +155,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li.active a:active {
   /* Navbar when scrolling through section */
   color: white;
-  background: #1E2028;          /*midnight*/
+  background: white;          /*midnight*/
 }
 .navbar-custom .navbar-toggle {
   color: white;
