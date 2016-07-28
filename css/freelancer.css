@@ -147,7 +147,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   /* current navbar section location*/
-  color: red;
+  color: #DB2C38;
   background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
