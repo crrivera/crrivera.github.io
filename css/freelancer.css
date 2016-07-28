@@ -72,7 +72,6 @@ header {
   text-align: center;
   /*background: #ffffff;*/
   background-image: url("file://img/macbook_background.png");
-  background-color: red;
 }
 header .container {
   padding-top: 100px;
