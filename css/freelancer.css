@@ -137,13 +137,10 @@ header .intro-text .skills {
   color: #DB2C38;
   outline: none;
 }
-/*
 .navbar-custom .navbar-nav li a:focus{
   /* Leave navbar tag white when clicked */
-/*
   color: white;
 }
-*/
 .navbar-custom .navbar-nav li a:active {
   /* Highlight red when moving */
   color: #DB2C38;
