@@ -107,9 +107,8 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #1E2028;
+  background: #1E2028;  /*midnight*/
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*text-transform: uppercase;*/
   font-weight: 700;
   border: none;
 }
@@ -133,7 +132,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:hover {
   /* Hover Over Navigation Bar*/
-  color: #DB2C38;
+  color: #DB2C38;       /*red*/
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -142,8 +141,8 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
-  color: #DB2C38;
-  /*background: #18BC9C;*/
+  color: #DB2C38;       /*red*/
+  background: #1E2028;  /*midnight*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
