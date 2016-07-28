@@ -267,6 +267,7 @@ section.success {
 }
 .contact-paragraph {
     max-width: 767px;
+    position: center;
 }
 .floating-label-form-group {
   position: relative;
