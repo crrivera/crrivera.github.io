@@ -72,11 +72,11 @@ header {
   text-align: center;
   /*background: #ffffff;*/
   background-image: url("https://static.pexels.com/photos/7108/notebook-computer-chill-relax.jpg");
+  max-width: 100%;
 }
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
-  /*background-image: url("https://static.pexels.com/photos/7108/notebook-computer-chill-relax.jpg");*/
 }
 header img {
   display: block;
