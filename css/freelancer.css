@@ -322,15 +322,19 @@ footer h3 {
   margin-bottom: 30px;
 }
 footer .footer-above {
+  /* Location, Around the Web, About Freelancer section */
   padding-top: 50px;
-  background-color: #2C3E50;
+  background-color: #1E2028;
+  /*background-color: #2C3E50; /*lighter*/
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
+  /* Copyright Section */
   padding: 25px 0;
-  background-color: #233140;
+  background-color: #1E2028;
+  /*background-color: #233140; /*darker*/
 }
 .btn-outline {
   color: white;
