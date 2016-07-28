@@ -221,6 +221,10 @@ section.success {
   /* Skills Sections */
   background: #4A4C52;
 }
+#skills h2 {
+    text: #DB2C38;
+    padding-bottom: 20px;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
