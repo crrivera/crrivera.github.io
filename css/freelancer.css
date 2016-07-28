@@ -28,7 +28,6 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*text-transform: uppercase;*/
   font-weight: 700;
 }
 hr.star-light,
@@ -265,6 +264,9 @@ section.success {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
+}
+.text-center {
+    max-width: 767px;
 }
 .floating-label-form-group {
   position: relative;
