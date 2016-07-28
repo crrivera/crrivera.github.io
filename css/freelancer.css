@@ -132,7 +132,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:hover {
   /* Hover Over Navigation Bar*/
-  color: #DB2C38;       /*red*/
+  color: #DB2C38;               /*red*/
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -141,15 +141,15 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
-  color: #DB2C38;       /*red*/
-  background: #1E2028;  /*midnight*/
+  color: #DB2C38;               /*red*/
+  background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
-  /* Navbar when clicked */
+  /* Navbar when scrolling through section */
   color: white;
-  background: #1E2028;
+  background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -159,7 +159,8 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  /* Navbar when clicked */
+  background-color: #1E2028;    /*midnight*/
   color: white;
   border-color: #18BC9C;
 }
