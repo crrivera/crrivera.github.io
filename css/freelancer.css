@@ -71,8 +71,7 @@ header {
   /*First Section - Carlos Rivera*/
   text-align: center;
   /*background: #ffffff;*/
-  background-image: url("https://static.pexels.com/photos/7108/notebook-computer-chill-relax.jpg");
-  max-width: 100%;
+  background: url("https://static.pexels.com/photos/7108/notebook-computer-chill-relax.jpg");
 }
 header .container {
   padding-top: 100px;
