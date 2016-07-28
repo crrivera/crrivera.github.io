@@ -161,7 +161,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-toggle:focus {
   /* Navbar when clicked */
   background-color: #1E2028;    /*midnight*/
-  color: white;
+  color: #DB2C38;               /*red*/
   border-color: #18BC9C;
 }
 @media (min-width: 768px) {
