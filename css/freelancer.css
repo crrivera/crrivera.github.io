@@ -206,8 +206,20 @@ section h2 {
 }
 section.success {
   /* About Section Background and Text Color */
-  background: #DB2C38;
+  /*background: #DB2C38;*/
   color: white;
+}
+section.success about {
+  /* About Section */
+  background: #4A4C52;
+}
+section.success interests {
+  /* Interests Section */
+  background: white;
+}
+section.success skills {
+    /* Skills Sections */
+    background: #4A4C52;
 }
 @media (max-width: 767px) {
   section {
