@@ -125,6 +125,8 @@ header .intro-text .skills {
   /* Name in Navbar */
   color: white;
 }
+
+
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
@@ -133,16 +135,17 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:hover {
   /* Hover Over Navigation Bar */
-  color: #DB2C38;               /*red*/
+  /* Highlight red when hovering */
+  color: #DB2C38;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus{
   /* Leave navbar tag white when clicked */
-  color: #DB2C38;
+  color: white;
 }
 .navbar-custom .navbar-nav li a:active {
   /* Highlight red when moving */
-  color: white;
+  color: #DB2C38;
 }
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
