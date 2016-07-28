@@ -434,7 +434,8 @@ fieldset[disabled] .btn-success.active {
   border-color: #18BC9C;
 }
 .btn-success .badge {
-  color: #18BC9C;
+  /* pop up text from form */
+  color: #DB2C38;
   background-color: white;
 }
 .btn-social {
