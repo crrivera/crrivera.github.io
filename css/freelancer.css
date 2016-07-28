@@ -80,7 +80,7 @@ header {
   
   -o-background-size: 100% auto;
   
-  background-size: 100% auto;
+  /*background-size: 100% auto;*/
 }
 header .container {
   padding-top: 100px;
