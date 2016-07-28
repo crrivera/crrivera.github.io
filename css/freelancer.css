@@ -209,7 +209,7 @@ section.success {
   /*background: #DB2C38;*/
   color: white;
 }
-section.success about {
+section.success .about {
   /* About Section */
   background: #4A4C52;
 }
