@@ -328,11 +328,12 @@ footer .footer-above {
   /*background-color: #2C3E50; /*lighter*/
 }
 footer .footer-col {
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
+  margin-bottom: 20px;
 }
 footer .footer-below {
   /* Copyright Section */
-  /*padding: 25px 0;*/
+  padding: 25px 0;
   background-color: #1E2028;
   /*background-color: #233140; /*darker*/
 }
