@@ -213,21 +213,23 @@ section.success {
   /* About Section */
   background: #4A4C52;
 }
+#about h2 {
+  padding-bottom: 20px;
+}
 #interests {
   /* Interests Section */
   background: white;
 }
 #interests h2 {
-    color: #DB2C38;
-    padding-bottom: 20px;
+  color: black;
+  padding-bottom: 20px;
 }
 #skills {
   /* Skills Sections */
   background: #4A4C52;
 }
 #skills h2 {
-    color: #DB2C38;
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 @media (max-width: 767px) {
   section {
