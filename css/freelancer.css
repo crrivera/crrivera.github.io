@@ -87,7 +87,6 @@ header .intro-text .name {
   /* Intro Section Name*/
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*text-transform: uppercase;*/
   font-weight: 700;
   font-size: 2em;
 }
@@ -133,6 +132,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
+  /* Hover Over Navigation Bar*/
   color: #DB2C38;
   outline: none;
 }
@@ -141,8 +141,9 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li.active a {
-  color: white;
-  background: #18BC9C;
+  /* Navbar when in section */
+  color: #DB2C38;
+  /*background: #18BC9C;*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
