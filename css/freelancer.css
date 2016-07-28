@@ -217,12 +217,16 @@ section.success {
   /* Interests Section */
   background: white;
 }
+#interests h2 {
+    color: #DB2C38;
+    padding-bottom: 20px;
+}
 #skills {
   /* Skills Sections */
   background: #4A4C52;
 }
 #skills h2 {
-    text: #DB2C38;
+    color: #DB2C38;
     padding-bottom: 20px;
 }
 @media (max-width: 767px) {
