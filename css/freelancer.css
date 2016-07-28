@@ -137,17 +137,20 @@ header .intro-text .skills {
   color: #DB2C38;
   outline: none;
 }
+/*
 .navbar-custom .navbar-nav li a:focus{
   /* Leave navbar tag white when clicked */
+/*
   color: white;
 }
+*/
 .navbar-custom .navbar-nav li a:active {
   /* Highlight red when moving */
   color: #DB2C38;
 }
 .navbar-custom .navbar-nav li.active a {
   /* current navbar section location*/
-  color: #DB2C38;
+  color: #DB2C38;               /*red*/
   background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
