@@ -143,7 +143,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:active {
   /* Highlight red when moving */
-  color: #DB2C38;
+  color: white;
 }
 .navbar-custom .navbar-nav li.active a {
   /* current navbar section location*/
