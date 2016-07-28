@@ -138,11 +138,11 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
   /* Highlight White While Moving */
-  color: white;
+  color: #DB2C38;
 }
 .navbar-custom .navbar-nav li.active a {
   /* Navbar when in section */
-  color: #DB2C38;               /*red*/
+  color: white;               /*red*/
   background: #1E2028;          /*midnight*/
 }
 .navbar-custom .navbar-nav li.active a:hover,
