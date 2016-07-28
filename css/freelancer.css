@@ -122,9 +122,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  /*color: white;*/
-  color: #DB2C38;               /*red*/
-
+  color: white;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
@@ -134,7 +132,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:hover {
   /* Hover Over Navigation Bar */
-  color: #DB2C38;               /*red*/
+  color: white;               /*red*/
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
