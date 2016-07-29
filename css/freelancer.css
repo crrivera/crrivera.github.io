@@ -69,7 +69,7 @@ hr.star-primary:after {
 header {
   /*First Section - Carlos Rivera*/
   text-align: center;
-  background: url("http://i.imgur.com/574bwny.jpg") no-repeat center center fixed;
+  background: url("http://i.imgur.com/574bwny.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
