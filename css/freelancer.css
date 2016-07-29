@@ -84,13 +84,11 @@ header {
   background-size: 100% auto;
    */
   
-  background: url("http://i.imgur.com/574bwny.jpg") no-repeat center center fixed;
+  background: url("http://i.imgur.com/574bwny.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  
-  overflow-y: scroll;
 }
 header .container {
   padding-top: 100px;
