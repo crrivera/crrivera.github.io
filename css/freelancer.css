@@ -89,6 +89,8 @@ header {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
+  overflow-y: scroll;
 }
 header .container {
   padding-top: 100px;
