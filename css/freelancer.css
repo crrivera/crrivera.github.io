@@ -236,8 +236,10 @@ section.success {
   }
 }
 
-#contact-info p {
+#contact-info {
     max-width: 767px;
+    position: center;
+    text-align: center;
 }
 
 #portfolio .portfolio-item {
