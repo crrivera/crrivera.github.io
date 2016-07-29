@@ -90,13 +90,11 @@ header .intro-text .name {
   font-weight: 700;
   font-size: 2em;
   color: white;
-  /*-webkit-text-stroke: 1px #1E2028;*/
 }
 header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300;
   color: white;
-  /*-webkit-text-stroke: 1px #1E2028;*/
 }
 @media (min-width: 768px) {
   header .container {
@@ -237,6 +235,11 @@ section.success {
     padding-top: 75px;
   }
 }
+
+#contact-info {
+    max-width: 767px;
+}
+
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
