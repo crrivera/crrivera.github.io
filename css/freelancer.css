@@ -235,13 +235,6 @@ section.success {
     padding-top: 75px;
   }
 }
-
-#contact-info {
-    max-width: 767px;
-    position: center;
-    text-align: center;
-}
-
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
