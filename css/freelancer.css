@@ -223,6 +223,10 @@ section.success {
 #interests h2 {
   padding-bottom: 20px;
 }
+#interests #interests-list li {
+  padding-bottom: 10px;
+  font-size: 20px;
+}
 #skills {
   /* Skills Sections */
   background: #4A4C52;
