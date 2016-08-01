@@ -233,6 +233,9 @@ section.success {
   line-height: 50px;
   text-align: left;
 }
+#interests #interests-list p {
+  padding-left: 5em;
+}
 #skills {
   /* Skills Sections */
   background: #4A4C52;
