@@ -218,11 +218,7 @@ section.success {
   color: black;
 }
 #interests h2 {
-  /*color: black;*/
   padding-bottom: 20px;
-}
-#interests p {
-  color: black;
 }
 #interests li{
   padding-bottom: 10px;
