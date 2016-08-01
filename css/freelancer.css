@@ -220,6 +220,9 @@ section.success {
   color: black;
   padding-bottom: 20px;
 }
+#interests p {
+  color: black;
+}
 #skills {
   /* Skills Sections */
   background: #4A4C52;
