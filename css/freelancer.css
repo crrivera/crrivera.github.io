@@ -220,15 +220,15 @@ section.success {
 #interests h2 {
   padding-bottom: 20px;
 }
-#interests li{
-  padding-bottom: 10px;
-}
 #skills {
   /* Skills Sections */
   background: #4A4C52;
 }
 #skills h2 {
   padding-bottom: 20px;
+}
+#skills li{
+  padding-bottom: 10px;
 }
 @media (max-width: 767px) {
   section {
