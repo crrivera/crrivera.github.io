@@ -32,6 +32,6 @@ Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade
 
 So this is my second quarter as a teaching assistant. It's definitely been a one-of-a-kind experience and something
 
-### Thundercats Ho!
+### COEN 12: Abstract Data Types and Data Structures
 
 Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up.
