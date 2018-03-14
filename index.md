@@ -7,4 +7,4 @@ Hi! My name is Carlos Rivera and I am currently a graduate computer science and 
 
 I'm currently on the look for my next challenge (software engineering internship!). I'm also always excited to meet new people so definitely drop me a line.
 
-Also, this site is still under construction so stay tuned! In the meantime though, here is my [resume](https://www.quakefinder.com/).
+Lastly, this site is still under construction so stay tuned! In the meantime though, here is my [resume](https://www.quakefinder.com/).
